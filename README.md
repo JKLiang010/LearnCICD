@@ -1,4 +1,4 @@
-# Git Example
+# Git Example -Example project for trying git
 # Lrarn CICD
 
--Example project for trying git
+
